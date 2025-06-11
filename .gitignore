@@ -1,0 +1,7 @@
+/algorithm_db
+/src/__pycache__
+/api/__pycache__
+/api/routes/__pycache__
+/schemas/micro_drama/__pycache__
+/.env
+/__pycache__
